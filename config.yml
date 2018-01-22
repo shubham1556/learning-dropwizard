@@ -1,0 +1,7 @@
+message: This is the message defined in external config file
+messageRepetitions: 3
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: phonebookuser
+  password: phonebookpassword
+  url: jdbc:mysql://localhost/phonebook
